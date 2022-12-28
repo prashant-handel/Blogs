@@ -1,4 +1,4 @@
-# My journey towards Programming #Dev Retro 2022
+# My Programming Journey #Dev Retro 2022
 
 ## About Me
 
