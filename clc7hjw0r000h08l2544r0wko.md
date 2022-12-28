@@ -42,11 +42,11 @@ let promise = new Promise(function(resolve, reject) {
 });
 
 // "Consuming Code" (Must wait for a fulfilled Promise)
-promise.then(    // .then() is a code consumer when no error occurs
+promise.then( // .then() is a code consumer when no error occurs
   function(value)
 );
 
-promise.catch(    // .catch() is also a code consumer when any error occurs
+promise.catch( // .catch() is also a code consumer when any error occurs
   function(error
 );
 ```
