@@ -28,11 +28,11 @@ Therefore a promise can have any of the three i.e. pending, fulfilled or rejecte
 
 Whenever a promise gets out from the pending state to the fulfilled or rejected state it gives a result. A result may be resolved or rejected.
 
-When no error occurs the promise the resolve function executes and whenever an error occurs the reject function executes.
+When no error occurs the resolve function executes and whenever an error occurs the reject function executes.
 
 ### Consumers
 
-There are two consumers for promises i.e. then or catch. The consumers come into play when the state of the promise resolves or rejects. We pass a function within then and catch consumers. The function within then executes when the promise resolves and the function within catch executes when the promise gets rejected.
+There are two consumers for promises i.e. then or catch. The consumers come into play when the state of the promise resolves or rejects. We pass a function within then and catch consumers. The function within `.then` executes when the promise resolves and the function within `.catch` executes when the promise gets rejected.
 
 ```javascript
 let promise = new Promise(function(resolve, reject) {
@@ -50,7 +50,5 @@ promise.catch( // .catch() is also a code consumer when any error occurs
   function(error
 );
 ```
-
-In the present time, most of the developers use only then consumer and write the function for error without catch keyword as shown below.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672221195725/908debca-8e7d-4912-8af9-1dcda7a0d465.png align="center")
