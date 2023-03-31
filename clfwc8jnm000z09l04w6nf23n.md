@@ -76,6 +76,12 @@ const reducer = (state, action) =>{
 }
 ```
 
-Redux works on these three principles, we can understand it easily by using the image.
+Redux works on these three principles. Let us take a simple JavaScript Application, the state of the application is maintained separately in the Redux Store. The JavaScript App is always subscribed to the Redux Store.
+
+The store cannot directly update the state. Whenever the application wants to update the state, the application has to dispatch an action.
+
+The reducer then handles the action and updates the current state. Thus the app is subscribed to the JavaScript Application, it updates the state in the application too.
+
+We can understand it easily through the image.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680254567142/1a8b524f-12e1-4703-8afd-956b701425ae.jpeg align="center")
