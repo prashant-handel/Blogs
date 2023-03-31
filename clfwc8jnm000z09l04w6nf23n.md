@@ -3,7 +3,7 @@ title: "Redux Principles"
 datePublished: Fri Mar 31 2023 09:24:12 GMT+0000 (Coordinated Universal Time)
 cuid: clfwc8jnm000z09l04w6nf23n
 slug: redux-principles
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680254427362/593613ab-793f-48ef-a315-ce5590c855de.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680255599893/a62dbb6e-57a9-4e36-bb12-912208ab446a.png
 tags: reactjs, html5, redux, store, redux-toolkit
 
 ---
