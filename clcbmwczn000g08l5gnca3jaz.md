@@ -1,4 +1,12 @@
-# Starting React + Installation
+---
+title: "Starting React + Installation"
+datePublished: Sat Dec 31 2022 07:40:23 GMT+0000 (Coordinated Universal Time)
+cuid: clcbmwczn000g08l5gnca3jaz
+slug: starting-react-installation
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672472382210/437b8041-b403-48dc-8403-94710dfb27d3.jpeg
+tags: react-native, react, reactjs, vscode-cjevho8kk00bo1ss2lmqqjr51, vscode-extensions
+
+---
 
 The first thing to get ready to work on React is to install Node.js and VS Code on your computer. Node.js will be used to check the code in the editor without opening the browser.
 
@@ -21,7 +29,7 @@ The first thing to get ready to work on React is to install Node.js and VS Code 
 
 ## Installation of VS Code Editor
 
-1. Go to the website '[https://code.visualstudio.com/](https://code.visualstudio.com/)', the page will appear as shown below.
+1. Go to the website '[https://code.visualstudio.com/](https://code.visualstudio.com/)', and the page will appear as shown below.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672467245934/eafaa048-d92c-46ca-a752-1616baaa7667.jpeg align="center")
     
@@ -43,13 +51,13 @@ The first thing to get ready to work on React is to install Node.js and VS Code 
     
     ## Adding React Developer Tools
     
-    If you are using Chrome browser, then it is better to install a chrome extension 'React Developer Tools'.
+    If you are using Chrome browser, then it is better to install a chrome extension 'React Developer Tools.
     
     Click on the link '[https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)' and click on Add to Chrome button to add the extension.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672469315426/91f8d564-e881-4bab-96a0-ada5e5092c70.jpeg align="center")
     
-    The React Developer Tools help get the props and states of our components in an organized way. We can inspect and edit its current props and state in the console of the browser which we will learn afterward.
+    The React Developer Tools help get the props and states of our components in an organized way. We can inspect and edit its current props and state in the console of the browser which we will learn afterwards.
     
     ## Some useful extensions of VS Code
     
@@ -57,13 +65,13 @@ The first thing to get ready to work on React is to install Node.js and VS Code 
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672471455845/5acfd39b-2470-43fa-bb13-061e956ec8f6.jpeg align="center")
     
-    Search for the extensions and install the extension as listed below
+    Search for the extensions and install the extension as listed below. These extensions will help to enhance the developer's productivity and the beauty of the code.
     
     1. **Thunder Client** This VS Code extension is lightweight and lets you test APIs within the editor.
         
     2. **ES7 React/Redux/GraphQL/React-Native snippets** This extension gives a shorthand structure for writing props, states, Class-based components and function-based components easily.
         
-    3. **Bracket Pair Colorizer** This extension makes the opening and closing pair of brackets have similar colors which make identification of functions easier.
+    3. **Bracket Pair Colorizer** This extension makes the opening and closing pair of brackets have similar colours which make the identification of functions easier.
         
     4. **Auto Rename Tag** It is used to change tag names easily. We don't have to change any tag names opening and closing individually. If we change either side of the tag the other will be changed by this extension.
         
