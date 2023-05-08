@@ -3,6 +3,7 @@ title: "How to use componentWillUnmount() in React Functional Components"
 datePublished: Mon May 08 2023 09:47:55 GMT+0000 (Coordinated Universal Time)
 cuid: clhentf18002409ms0c6fgxzn
 slug: how-to-use-componentwillunmount-in-react-functional-components
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683539456615/e9f78e7f-5376-4b70-b23b-a0c42d1af4f3.webp
 tags: react, reactjs, lifecycle, reacthooks, lifecycle-in-react
 
 ---
