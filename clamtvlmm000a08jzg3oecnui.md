@@ -24,7 +24,7 @@ As similar to the above example we can also convert values to number. like
 let Var = '34' ;
 console.log(Var, typeof Var);    // 34 string
 
-Var = Number(34) 
+Var = Number('34') 
 console.log(Var, typeof Var);    // 34 number
 ```
 
