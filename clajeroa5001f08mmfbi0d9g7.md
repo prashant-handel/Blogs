@@ -68,6 +68,7 @@ const grade = mark => mark > 100 ? undefined
                       : undefined;
 
 console.log(grade(100)); // A
+console.log(grade(66)); // C
 console.log(grade(1000)); // undefined
 console.log(grade(10)); // F
 console.log(grade(-6)); // undefined
