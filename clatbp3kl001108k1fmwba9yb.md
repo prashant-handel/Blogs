@@ -1,4 +1,12 @@
-# Variables in JavaScript
+---
+title: "Variables in JavaScript"
+datePublished: Wed Nov 23 2022 07:27:15 GMT+0000 (Coordinated Universal Time)
+cuid: clatbp3kl001108k1fmwba9yb
+slug: variables-in-javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/PsRUMc7vilg/upload/v1669188381862/e5ZyOvejn.jpeg
+tags: variables, javascript, variable-declaration, variables-and-constants, types-of-variables
+
+---
 
 JavaScript variables are used to store various types of data and do computations using that variables. In simple language variables are containers for storing data values. Similarly like we store different types of items in different containers in our kitchen.
 
@@ -68,7 +76,7 @@ function greaterValue() {
         console.log(`${a} is greater than ${b}`);
     }
     console.log(a);
-    console.log(b);
+    console.log(b); // gives error
 }
 greaterValue();
 ```
