@@ -35,7 +35,7 @@ console.log(squareNumbers);
 
 The `filter()` method takes each element in an array and it applies a conditional statement against it. If this conditional returns true, the element gets pushed to the new array. If the condition returns false, the element does not get pushed into the new array.
 
-The `filter()` method is used on an array of objects having name of students and their corresponding marks. We can easily make a new array of students having marks more than 90 applying `filter()` method on the array.
+The `filter()` method is used on an array of objects having name of students and their corresponding marks. We can easily make a new array of students having marks equal or more than 90 applying `filter()` method on the array.
 
 ## Syntax-
 
